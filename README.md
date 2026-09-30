@@ -1,4 +1,4 @@
-# Materiale per le esercitsazioni in laboratorio
+# Materiale per le esercitazioni in laboratorio
 
 ## ITT Serale Amelia - Corso di Informatica, Sistemi e Reti e TPSI
 
