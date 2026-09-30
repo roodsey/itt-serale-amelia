@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="numero_maggiore"/>
+        <attribute name="authors" value="marco.ruzzi"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-09-30 05:36:39 "/>
+        <attribute name="created" value="bWFyY28ucnV6emk7REVTS1RPUC1CSjdUOExWOzIwMjYtMDktMzA7IjA1OjMyOjIxICI7MzQyNg=="/>
+        <attribute name="edited" value="bWFyY28ucnV6emk7REVTS1RPUC1CSjdUOExWOzIwMjYtMDktMzA7IjA1OjM2OjM5ICI7MTszNTQ3"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="numero1, numero2" type="Integer" array="False" size=""/>
+            <output expression="&quot;Inserisci il valore di numero1: &quot;" newline="True"/>
+            <input variable="numero1"/>
+            <output expression="&quot;Inserisci il valore di numero2: &quot;" newline="True"/>
+            <input variable="numero2"/>
+            <if expression="numero1 = numero2">
+                <then>
+                    <output expression="&quot;I numeri &quot; &amp; numero1 &amp; &quot; e &quot; &amp; numero2 &amp; &quot; sono UGUALI!&quot;" newline="True"/>
+                </then>
+                <else>
+                    <if expression="numero1 &gt; numero2">
+                        <then>
+                            <output expression="&quot;Il numero &quot; &amp; numero1 &amp; &quot; e' MAGGIORE del numero &quot; &amp; numero2" newline="True"/>
+                        </then>
+                        <else>
+                            <output expression="&quot;Il numero &quot; &amp; numero1 &amp; &quot; e' MINORE del numero &quot; &amp; numero2" newline="True"/>
+                        </else>
+                    </if>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
