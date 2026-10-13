@@ -1,0 +1,5 @@
+Realizzare un programma che presi in input il prezzo unitario di un prodotto e la quantità di prodotti calcola il prezzo totale.
+
+- Se il prezzo totale è superiore a 200 applica uno sconto di 10.
+
+- Se il prezzo totale è superiore a 200 applica uno sconto del 20%.

@@ -1,0 +1,11 @@
+Esercizio 1:
+In una serra si considera normale la temperatura 
+> 18 °C, sotto i 5 °C si hanno danni irreparabili, tra i 
+5 °C e i 18 °C, estremi compresi, vi è una situazione 
+di pericolo: scrivi un programma che, letta la temperatura presente, 
+indichi lo stato della serra.
+
+Esercizio 2:
+Leggi due numeri e visualizza sullo schermo solo 
+il maggiore di essi: nel caso siano uguali, scrivi la 
+frase “I due numeri sono uguali”.

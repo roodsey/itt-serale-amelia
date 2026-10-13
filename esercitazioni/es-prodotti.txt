@@ -1,0 +1,6 @@
+Scrivere un programma che legge in input il numero di prodotti.
+Per ogni prodotto chiede all'utente il prezzo unitario e la quantità, e calcola il costo totale dei prodotti e lo stampa a schermo.
+
+- Se iol prezzo totale supera 300 il programma applica uno sconto di 20 sul totale.
+
+- Al prezzo finale va aggiunta l'iva al 22%

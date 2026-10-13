@@ -1,0 +1,11 @@
+Esercizio 1
+-----------
+Scrivi un programma che legge una sequenza di nu-
+meri interi terminanti con l’inserimento di uno 0 e 
+visualizza quanti numeri sono stati inseriti.
+
+Esercizio 2
+-----------
+Scrivi un programma che calcola la somma dei nu-
+meri inseriti dall’utente fino a raggiungere il numero 
+1000 e indica quanti numeri sono stati sommati.

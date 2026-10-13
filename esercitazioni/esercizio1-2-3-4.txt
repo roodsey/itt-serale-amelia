@@ -1,0 +1,21 @@
+Esercizio 1:
+In una serra si considera normale la temperatura 
+> 18 °C, sotto i 5 °C si hanno danni irreparabili, tra i 
+5 °C e i 18 °C, estremi compresi, vi è una situazione 
+di pericolo: scrivi un programma che, letta la temperatura presente, 
+indichi lo stato della serra.
+
+Esercizio 2:
+Leggi due numeri e visualizza sullo schermo solo 
+il maggiore di essi: nel caso siano uguali, scrivi la 
+frase “I due numeri sono uguali”.
+
+Esercizio 3:
+Chiedi il prezzo e l’aliquota IVA (4%, 10% o 22%) di 
+due prodotti appena acquistati e calcola il prezzo
+finale. Se l’aliquota non è valida, mostra un messaggio di errore.
+
+Esercizio 4:
+Inserisci una temperatura in °C relativa all’acqua 
+e stampa “solido”, “liquido” o “gassoso” a seconda 
+della temperatura letta.
