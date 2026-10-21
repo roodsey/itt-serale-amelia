@@ -1,0 +1,27 @@
+Esercizio 1
+-----------------------------
+Scrivi un programma che, 
+ricevuto in ingresso un numero NUM intero maggiore di 0, 
+conta quanti sono i multipli di 3 fra 1 e NUM.
+
+Esercizio 2
+-----------------------------
+Scrivi un programma che, ricevuti in ingresso 
+due numeri interi NUM1 e NUM2 tali che NUM2 > NUM1,
+conta quanti sono i multipli di 3 compresi fra NUM1 e NUM2.
+
+Esercizio 3
+-----------------------------
+Leggi un numero NUM e un numero EXP e calcola 
+la potenza EXP-esima di un numero.
+(potenza = NUM * NUM * ... * NUM un numero di volte pari ad EXP)
+
+Esercizio 4
+-----------------------------
+Leggi due numeri e visualizzali in ordine crescente 
+oppure decrescente.
+
+Esercizio 5
+-----------------------------
+Leggi un numero che indica la nazionalità di una 
+persona (0 = italiano, 1 = inglese, 2 = francese) e le  comunica un saluto nella sua lingua ("ciao", "hi", "salut").
