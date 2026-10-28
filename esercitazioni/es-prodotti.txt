@@ -1,6 +1,17 @@
+Esercizio 1
+-----------
 Scrivere un programma che legge in input il numero di prodotti.
 Per ogni prodotto chiede all'utente il prezzo unitario e la quantità, e calcola il costo totale dei prodotti e lo stampa a schermo.
 
-- Se iol prezzo totale supera 300 il programma applica uno sconto di 20 sul totale.
-
+- Se il prezzo totale supera 300 il programma applica uno sconto di 20 sul totale.
 - Al prezzo finale va aggiunta l'iva al 22%
+
+Esercizio 2
+-----------
+Risolvere l'esercizio 1 definendo una nuova funzione.
+La funziona si chiama "leggiProdotto", non prende in ingresso alcun parametro e restituisce il totale parziale di un singolo prodotto.
+La funzione esegue le operazioni seguenti:
+- chiede all'utente la quantità del prodotto
+- chiede all'utente il prezzo unitario del prodotto
+- calcola il totale parziale (prezzo unitario * quantita)
+- restituisce il totale parziale
