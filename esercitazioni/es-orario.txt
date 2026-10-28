@@ -6,8 +6,9 @@ Es: i valori 12, 20, 18 e 30 rappresentano i due orari 12:20 e 18:30
 
 - verificare se il primo orario è precedente al secondo, o viceversa
 - calcolare il tempo in minuti che intercorre fra i due orari (dal più grande al più piccolo)
-- scrivere una funzione "estPrecedente" che prende in ingresso i quattro parametri che rappresentano gli orari e restituisce true se il primo orario è precedente (o uguale) al secondo, e false viceversa.
-- scrivere una funzione "distanzaMinuti" che prende in ingresso i quattro parametri che rappresentano gli orari e restituisce il numero di minuti che intercorrono fra i due orari, se il primo orario è precedente al secondo, e restituisce -1 se il secondo orario è precedente al primo
+- scrivere una funzione "controllaOrario" che verifica se i dati di ore e minuti di un orario sono corretti, ovvero che "ora" è minore di 24 e che "minuti" è minore di 60
+- scrivere una funzione "estPrecedente" che prende in ingresso i quattro parametri che rappresentano gli orari, verifica se i due orari sono corretti, e restituisce true se il primo orario è precedente (o uguale) al secondo, e false viceversa.
+- scrivere una funzione "distanzaMinuti" che prende in ingresso i quattro parametri che rappresentano gli orari, verifica se i due orari sono corretti, e restituisce il numero di minuti che intercorrono fra i due orari, se il primo orario è precedente al secondo, e restituisce -1 se il secondo orario è precedente al primo
 
 
 
