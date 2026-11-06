@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="quesito4"/>
+        <attribute name="authors" value="Utente"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-11-06 06:27:53 "/>
+        <attribute name="created" value="VXRlbnRlO1BDLURPQ0VOVEUtUEFDSTsyMDI2LTExLTA2OyIwNjoxOTo0NiAiOzI4NjQ="/>
+        <attribute name="edited" value="VXRlbnRlO1BDLURPQ0VOVEUtUEFDSTsyMDI2LTExLTA2OyIwNjoyNzo1MyAiOzI7Mjk3MA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="dividendo, divisore, quoziente, resto" type="Integer" array="False" size=""/>
+            <input variable="dividendo"/>
+            <input variable="divisore"/>
+            <assign variable="quoziente" expression="0"/>
+            <assign variable="resto" expression="0"/>
+            <while expression="dividendo &gt;= divisore">
+                <assign variable="quoziente" expression="quoziente + 1"/>
+                <assign variable="dividendo" expression="dividendo - divisore"/>
+            </while>
+            <assign variable="resto" expression="dividendo"/>
+            <output expression="dividendo &amp; &quot; / &quot; &amp; divisore &amp; &quot; = &quot; &amp; quoziente &amp; &quot; con il resto di &quot; &amp; resto" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

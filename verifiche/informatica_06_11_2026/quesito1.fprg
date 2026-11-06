@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="quesito1"/>
+        <attribute name="authors" value="Utente"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-11-06 06:10:27 "/>
+        <attribute name="created" value="VXRlbnRlO1BDLURPQ0VOVEUtUEFDSTsyMDI2LTExLTA2OyIwNjowNzo0OCAiOzI4NjM="/>
+        <attribute name="edited" value="VXRlbnRlO1BDLURPQ0VOVEUtUEFDSTsyMDI2LTExLTA2OyIwNjoxMDoyNyAiOzE7Mjk2Mg=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Inserire voto&quot;" newline="True"/>
+            <declare name="voto" type="Integer" array="False" size=""/>
+            <input variable="voto"/>
+            <if expression="voto &gt;=3 &amp;&amp; voto &lt;= 10">
+                <then>
+                    <if expression="voto &gt;= 6">
+                        <then>
+                            <output expression="&quot;VALUTAZIONE SUFFICIENTE&quot;" newline="True"/>
+                        </then>
+                        <else>
+                            <output expression="&quot;VALUTAZIONE INSUFFICIENTE&quot;" newline="True"/>
+                        </else>
+                    </if>
+                </then>
+                <else>
+                    <output expression="&quot;Voto non valido: il voto deve essere compreso fra 3 e 10&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
