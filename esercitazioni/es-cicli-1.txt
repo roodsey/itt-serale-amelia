@@ -9,3 +9,16 @@ Esercizio 2
 Scrivi un programma che calcola la somma dei nu-
 meri inseriti dall’utente fino a raggiungere il numero 
 1000 e indica quanti numeri sono stati sommati.
+
+Esercizio 3
+-----------
+Scrivi un programma che legge 10 numeri reali,
+ne calcola la somma e la media e stampa i due valori 
+calcolati a schermo.
+
+Esercizio 4
+-----------
+Scrivi un programma che legge in ingresso un numero intero
+e lo converte in binario mediante la tecnica delle divisioni 
+successive. Il programma deve stampare i resti delle divisioni
+in modo che sia possibile visualizzare il numero in formato binario.
