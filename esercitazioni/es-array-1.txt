@@ -20,7 +20,7 @@ in modo che venga stampata la dicitura "DOPPIONI PRESENTI!" invece che i valori 
 
 Esercizio 4
 -----------
-Modificare la soluzione dell'Esercizio 1 in modo che:
+Modificare la soluzione dell'Esercizio 2 in modo che:
 - il programma legga in ingresso un ulteriore valore min, di tipo intero
 - durante il popolamento dell'array, il programma deve inserire valori casuali compresi fra min e max
 
