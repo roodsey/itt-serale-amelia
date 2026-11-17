@@ -1,0 +1,26 @@
+Esercizio 1
+-----------
+Scrivere un programma che legge in ingresso un numero intero inserito dall'utente e
+crea un array di interi di dimensione pari al numero letto.
+Il programma deve popolare l'array con numeri forniti dall'utente, e alla fine stampare 
+il contenuto dell'array.
+
+Esercizio 2
+-----------
+Scrivere un programma che legge in ingresso duevalori inseriti dall'utente:
+- size: tipo intero
+- max: tipo intero
+Il programma deve poi creare un array di 'size' elementi di tipo intero, e popolarlo con valori casuali compresi fra 0 e max.
+Infine il programma deve stampare l'array a schermo.
+
+Esercizio 3
+-----------
+Modificare la soluzione dell'Esercizio 1 in modo che:
+- il programma legga in ingresso un ulteriore valore min, di tipo intero
+- durante il popolamento dell'array, il programma deve inserire valori casuali compresi fra min e max
+
+Esercizio 4
+-----------
+Scrivere un programma che crea un array di 10 elementi e lo popola con valori casuali compresi fra 1 e 90.
+Il programma deve poi leggere un numero inserito dall'utente e verificare se tale numero è presente nell'array.
+Se il numero viene trovato, il programma deve stampare la stringa "BINGO!", altrimenti la stringa "RIPROVA...".
