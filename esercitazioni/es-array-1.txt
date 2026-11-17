@@ -21,6 +21,7 @@ Modificare la soluzione dell'Esercizio 1 in modo che:
 
 Esercizio 4
 -----------
-Scrivere un programma che crea un array di 10 elementi e lo popola con valori casuali compresi fra 1 e 90.
+Scrivere un programma che crea un array di 10 elementi e lo popola con valori casuali compresi fra 1 e 90, 
+in modo che non ci siano valori ripetuti.
 Il programma deve poi leggere un numero inserito dall'utente e verificare se tale numero è presente nell'array.
 Se il numero viene trovato, il programma deve stampare la stringa "BINGO!", altrimenti la stringa "RIPROVA...".
