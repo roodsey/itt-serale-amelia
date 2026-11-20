@@ -18,6 +18,6 @@ La funzione non restituisce alcun valore.
 
 ## Esercizio 2
 
-Definire una funzione C che prende in ingrsso un parametro `source` contenente un array di interi, un
+Definire una funzione C `aggiungiElemento()` che prende in ingrsso un parametro `source` contenente un array di interi, un
 parametro `size` contenente la dimensione dell'array `source`, un array `target` contenente un altro array di interi e, infine,
 un parametro `data` di tipo intero. La funzione deve aggiungere un nuovo elemento all'array `target` con valore `data`.
