@@ -16,7 +16,7 @@ Il programma deve stampare l'array a schermo e verificare se sono presenti dei d
 Esercizio 3
 ------------
 Modificare il programma realizzato per risolvere l'esercizio precedente
-in modo che venga stampata la dicitura "DOPPIONI PRESENTI!" invece che i valori dei doppioni.
+in modo che venga stampata una sola volta la dicitura "DOPPIONI PRESENTI!" invece che i valori dei doppioni.
 
 Esercizio 4
 -----------
